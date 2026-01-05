@@ -1,8 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SaaS Feedback & Bug Tracker
 
-## Getting Started
+Welcome to the **SaaS Feedback & Bug Tracker** project! 👋
 
-First, run the development server:
+This is a Next.js project bootstrapped with `create-next-app`. It is designed to help manage feedback and bug reports efficiently.
+
+## 🚀 Getting Started
+
+We're excited you're here! To get this project up and running on your local machine, follow these simple steps.
+
+### Installation & Running
+
+First, install the dependencies and run the development server:
 
 ```bash
 npm run dev
